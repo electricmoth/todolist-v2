@@ -1,2 +1,2 @@
-# todolist-v2
+# todolist
 Created with CodeSandbox
